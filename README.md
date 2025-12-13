@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&text=Hello%20Tech%20World!&fontSize=40&fontColor=ff4d4d&fontAlign=50&fontAlignY=32&stroke=-&strokeWidth=0&animation=fadeIn&desc=Welcome%20to%20my%20Github%20profile.&descSize=20&descAlign=50&descAlignY=51&textBg=false&color=8c0002"  />
 </div>
 
-***My name is Bela! I am a student, passionate programmer, web developer and eternal metal enthusiast. Check some info about me down bellow:***
+#### **My name is Bela! I'm a student, passionate programmer, web developer and eternal metal enthusiast. Check some info about me down bellow:**
 
 ## Here are some things about myself!
 
