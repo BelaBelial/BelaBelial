@@ -1,6 +1,8 @@
-## Hello Tech World 🙋‍♀️⚙️
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&text=Hello%20Tech%20World!&fontSize=40&fontColor=ff4d4d&fontAlign=50&fontAlignY=32&stroke=-&strokeWidth=0&animation=fadeIn&desc=Welcome%20to%20my%20Github%20profile.&descSize=20&descAlign=50&descAlignY=51&textBg=false&color=8c0002"  />
+</div>
 
-***My name is Bela! I am a student, programmer, web developer and eternal metal enthusiast. Check some info about me down bellow:***
+***My name is Bela! I am a student, passionate programmer, web developer and eternal metal enthusiast. Check some info about me down bellow:***
 
 ## Here are some things about myself!
 
@@ -97,11 +99,16 @@
 </div>
 <br/>
 
-![BelaBelial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelaBelial&theme=radical&show_icons=true&hide_border=true&layout=compact) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BelaBelial/BelaBelial/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BelaBelial/BelaBelial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BelaBelial/BelaBelial/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BelaBelial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2&custom_title=Languages%20I%20Used%20The%20Most" height="200" alt="languages graph"  />
+</div>
 
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BelaBelial&radius=16&theme=high-contrast&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=true&hide_title=false&line=b80000&area_color=b80000&point=f66f6f" height="400" alt="activity-graph graph"  />
+</div>
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&text=Good%20coding%20to%20all.&fontSize=32&fontColor=ff4d4d&fontAlign=50&fontAlignY=90&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8c0002"  />
+</div>
