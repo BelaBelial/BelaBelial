@@ -15,6 +15,7 @@
 - 🏅 I like competitions and challenges, so I have achieve medals through English competitions and hackathons.
 - ♀️ Pronouns: She/Her
 - ⚡ Fun fact: I love travelling abroad with my family and exploring the new kinds of ethnicities in people of different places of the world.
+- 🎯 Some of my many goals are: living abroad in a very cold place, becomming really good in programming, getting more knowledge olympic medals, work on projects I believe in, become a polyglot.
 
 ## Check some of the tools and languages that I have used and currently use as well:
 
