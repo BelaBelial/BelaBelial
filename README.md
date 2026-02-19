@@ -102,13 +102,13 @@
 
 ## Statistics for the data nerds:
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BelaBelial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2&custom_title=Languages%20I%20Used%20The%20Most" height="200" alt="languages graph"  />
-</div>
-
-<!-- <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BelaBelial&radius=16&theme=high-contrast&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=true&hide_title=false&line=b80000&area_color=b80000&point=f66f6f" height="400" alt="activity-graph graph"  />
 </div> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BelaBelial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 <div>
